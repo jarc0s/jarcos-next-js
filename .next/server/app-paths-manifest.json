@@ -1,0 +1,8 @@
+{
+  "/community/page": "app/community/page.js",
+  "/not-found": "app/not-found.js",
+  "/page": "app/page.js",
+  "/icon.png/route": "app/icon.png/route.js",
+  "/meals/page": "app/meals/page.js",
+  "/meals/share/page": "app/meals/share/page.js"
+}
